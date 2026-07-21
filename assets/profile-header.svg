@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Parham Khanmohammadi — Digital Builder</title>
+  <desc id="desc">A dark blue developer profile header for Parham_7991</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b18"/><stop offset=".48" stop-color="#102a58"/><stop offset="1" stop-color="#0b7189"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8" stop-opacity="0"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#8be9fd" stroke-opacity=".075"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+  <g opacity=".45" fill="none" stroke="#22d3ee"><circle cx="1040" cy="115" r="155"/><circle cx="1040" cy="115" r="108" stroke-opacity=".55"/><path d="M880 115h320M1040 0v270" stroke-opacity=".35"/></g>
+  <g fill="#22d3ee" filter="url(#glow)"><circle cx="1040" cy="115" r="8"/><circle cx="936" cy="220" r="4"/><circle cx="1141" cy="35" r="4"/></g>
+  <path d="M68 84h52M68 84v52M1132 276h-52m52 0v-52" fill="none" stroke="#22d3ee" stroke-width="2" opacity=".75"/>
+  <text x="70" y="93" font-family="monospace" font-size="15" fill="#67e8f9" letter-spacing="3">HELLO, WORLD. I AM</text>
+  <text x="67" y="160" font-family="Arial, sans-serif" font-size="55" font-weight="700" fill="#f8fafc">PARHAM</text>
+  <text x="70" y="202" font-family="monospace" font-size="22" fill="#a5f3fc">@Parham_7991</text>
+  <rect x="70" y="226" width="510" height="1" fill="url(#line)"/>
+  <text x="70" y="263" font-family="Arial, sans-serif" font-size="19" fill="#cbd5e1">Developer  /  Cloud Explorer  /  Open-source Builder</text>
+  <text x="70" y="303" font-family="monospace" font-size="14" fill="#7dd3fc">TEAM :: AraTmDev</text>
+</svg>
